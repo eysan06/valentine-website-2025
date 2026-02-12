@@ -56,9 +56,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I LOVE YOUUUUUUUUUUUU 🎉💝💖💝💓",
+        title: "I LOVE YOUUUUUUUUUUUU AND THANK YOUUUUU 🎉💝💖💝💓",
         message: "BLADE BOOTY BOUNCE BOUNCE BOUNCE BOUNCE",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🍑🍑🍑🍑🍑🍑🍑"  // These will bounce around
     },
 
     // Color scheme for the website
