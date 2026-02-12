@@ -14,8 +14,15 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: [
+        "https://cdn3.emoji.gg/emojis/75042-blade-fine.png",
+        "https://cdn3.emoji.gg/emojis/52620-blade-tsk.png"
+    ],
+    bears: [
+        "https://cdn3.emoji.gg/emojis/59159-blade-cantseeme.png",
+        "https://cdn3.emoji.gg/emojis/93374-blade-lockedon.png"
+    ]
+        // Cute bear emojis
     },
 
     // Questions and answers
