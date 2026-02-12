@@ -50,6 +50,12 @@ body {
     animation: float var(--float-duration) linear infinite;
 }
 
+.floating-img {
+    width: 60px;
+    height: auto;
+    pointer-events: none;
+}
+
 @keyframes float {
     0% {
         transform: translateY(100vh) translateX(0);
